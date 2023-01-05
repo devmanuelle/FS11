@@ -1,0 +1,19 @@
+body{
+    background-color: pink;
+}
+h1{
+    text-align: center;
+    color: #B22222;
+}
+h2{
+    color: #CD5C5C;
+}
+a{
+    color: #992244
+}
+#conteúdo{
+    font-size: xx-large;
+}
+li{
+    color: rgb(85, 7, 33);
+}
